@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DuoContacts" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#FC5185</item> -->
+    </style>
+
+    <style name="Theme.DuoContacts" parent="Base.Theme.DuoContacts" />
+</resources>
